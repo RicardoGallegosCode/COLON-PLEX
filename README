@@ -2,3 +2,5 @@ Bienvenido a COLON-PLEX, un pipeline desarrollado en python diseñado para recib
 a partir de las cuales realizara una busqueda, segmentación y clasificación de polipos.
 La segmentación esta a cargo de una red de segmentación U-NET con modificaciones a la arquitectura tradicional, adecuada para la segmentación de polipos.
 La clasificación viene de un analisis fractal y topológico, y nos indica el potencial de malignidad del polipo.
+
+En esta rama se ejecutaran las pruebas para luego enviarlas al main
